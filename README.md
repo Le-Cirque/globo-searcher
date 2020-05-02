@@ -1,2 +1,2 @@
 # globo-searcher
-A simple prototype to catch news from Globo.com
+A simple prototype to catch news from Globo.com.
